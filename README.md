@@ -68,4 +68,4 @@ var connString = "Host=trino-coordinator;Port=8080;Catalog=hive;User=username;Ac
 
 ## License
 
-Apache License 2.0
+MIT License
